@@ -1,0 +1,112 @@
+body,
+footer,
+.home .slider .slick-prev:hover,
+.home .slider .slick-next:hover,
+.home3 .home-bg .skewed,
+.navbar .navbar-toggler,
+.contact .form .form-group textarea,
+.contact .form .form-group input,
+.about .tabs-about .nav-item,
+.about .tabs-about .nav-link.active,
+.option-box .color-option,
+.option-box .gear-check,
+.serv .info-serv .img-serv,
+.serv .client:before,
+.serv .client:after,
+.contact .bg-contact:before,
+.contact .bg-contact:after,
+.navbar .nav-item a,
+.navbar {
+  background-color: #0c0c0c; }
+
+.contact .bg-contact {
+  background-color: #040404; }
+
+.home .slider .slick-prev, .home .slider .slick-next {
+  background-color: rgba(0, 0, 0, 0.8); }
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.3); }
+
+.about .about-cont .about-infos .education .education-info .title-educt,
+.about .about-cont .about-infos .infos-about .title-infos h4,
+.about .about-cont .infos h3,
+.home .slider .slick-prev:hover,
+.home .slider .slick-next:hover,
+footer p,
+.testim .tabbable .tab-content .profile-details i,
+.serv .content h4,
+.about .skills .progress .progress-bar:before,
+.about .skills .progress-text,
+.about .profile .title-info,
+.navbar .collapse-menu .open-menu:before,
+.navbar .collapse-menu .closed-menu:before,
+.navbar .social-media a,
+.navbar .nav-item a {
+  color: #ccc; }
+
+.home .title .btn-home a,
+.home .title h1,
+.home .title .typed-cursor,
+.home .title .type, .home2 .title p,
+.contact .infos-contact .email a, .contact .infos-contact .email span,
+.contact .infos-contact .phone a, .contact .infos-contact .phone span,
+.contact .infos-contact .address a, .contact .infos-contact .address span,
+.serv .info-serv p,
+.serv .info-serv h4,
+.serv .testim .testim-infos .myslide p,
+.serv .title-testim p,
+.about .about-cont .profile .profile-info h6 span:last-child,
+.about .about-cont .about-infos .skills .progress-text,
+.about .about-cont .see-more-abt a,
+.about .about-cont .infos .btns a,
+.home .title p,
+.work .shuffle ul li,
+.about .tabs-about .tab-content .tab-pane.profile h6 span:last-child,
+.about .tabs-about .nav-link,
+.content .title h1,
+.option-box .color-option ul li span,
+.option-box .gear-check {
+  color: #eee; }
+
+.serv .testim .quote-icon .fa-quote-left,
+.about .about-cont .infos span,
+.testim .tabbable .tab-content .profile-details p,
+.serv .content p,
+.about .tabs-about .tab-content .tab-pane p {
+  color: #aaa; }
+
+.option-box .color-option ul li,
+.navbar .collapse-menu .open-menu:before,
+.navbar .collapse-menu .closed-menu:before {
+  border: 1px solid #ccc; }
+
+.navbar .navbar-toggler {
+  border: 1px solid #1d1d1d; }
+
+footer {
+  border-top: 1px solid #1d1d1d; }
+
+.contact .bg-contact:before,
+.contact .bg-contact:after,
+.navbar {
+  border-right: 1px solid #000; }
+
+.serv .testim .testim-infos .slick-arrow {
+  box-shadow: -4px 4px 7px #080808; }
+
+.home2 .home2-img,
+.about .about-cont .about-img,
+.option-box .color-option,
+.contact .infos,
+.work .shuffle ul li.active,
+.option-box .gear-check {
+  box-shadow: -3px 5px 12px #080808; }
+
+.home3 .home3-img:before {
+  background-image: url(../images/background-home3-dark.png); }
+
+.home4 .home4-img:before {
+  background-image: url(../images/background-home4-dark.png); }
+
+/*# sourceMappingURL=dark_template.css.map */

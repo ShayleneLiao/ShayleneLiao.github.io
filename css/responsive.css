@@ -1,0 +1,192 @@
+/* ------------------------- Start Media Query -------------------------------------- */
+
+/* X Small Screen */
+@media(min-width: 100px) and (max-width: 991px) {
+    section.close-menu,
+    section {
+        padding-left: 0;
+    }
+    .content {
+        padding: 0 40px;
+    }
+    section.about, section.serv {
+        height: 100%;
+    }
+    .see-more-abt {
+        display: none;
+    }
+    .navbar {
+        left: -220px;
+        padding: 0;
+        transition: all, 320ms, ease-in-out;
+    }
+    .navbar .open-nav {
+        left: 0;
+    }
+    .navbar .navbar-toggler {
+        background-color: #fff;
+        border: 1px solid #ddd;
+    }
+    .navbar .collapse {
+        height: auto;
+        transition: all, 320ms, ease-in-out;
+    }
+    .navbar .collapse .collapse-menu {
+        display: none!important;
+    }
+    .navbar .navbar-nav {
+        margin: auto;
+        border-top: none;
+    }
+    .navbar .nav-item {
+        margin: 10px 0;
+    }
+    .navbar .nav-item a {
+        font-size: 14px;
+    }
+    .navbar .social-media {
+        bottom: 10px;
+    }
+    .navbar .logo .bg_logo {
+        top: 12px;
+    }
+    
+    /* Header */
+    
+    .home .title h1 {
+        font-size: 40px;
+    }
+    .home2 .home2-img {
+        height: 100vh;
+        width: 100%;
+        position: absolute;
+        top: 0;
+        right: 0;
+        transform: none!important;
+    }
+    
+    /* About */
+    
+    .title {
+        padding: 70px 30px;
+    }
+    .about .about-cont .about-img {
+        width: 100%;
+        margin-bottom: 10px;
+    }
+    .about .about-img.show-img-abt {
+        margin-left: auto;
+    }
+    .about .about-cont .infos .btns a {
+        margin-right: 17px;
+        font-size: 14px;
+    }
+    .about .about-cont .infos .btns a:after {
+        width: 20px;
+    }
+    .about .about-cont .profile .profile-info .title-info {
+        max-width: 125px;
+    }
+    
+    /* Services */
+    
+    .serv .info-serv {
+        margin-bottom: 70px;
+    }
+    .serv .info-serv p {
+        top: 83px;
+        opacity: 1;
+        padding: 2px 53px;
+    }
+    .serv .client {
+        margin-top: 25px;
+    }
+    
+    /* Portfolio */
+    
+    .work .shuffle ul li {
+        margin-bottom: 10px;
+    }
+    
+    /* Client */
+    
+    .serv .client .logos img {
+        margin-bottom: 35px;
+    }
+    
+    /* Testimonials */
+    
+    .serv .testim .testim-infos {
+        width: 80%;
+    }
+    .serv .testim .testim-infos .myslide p {
+        padding: 0 50px;
+    }
+    .serv .testim .quote-icon .fa-quote-right {
+        right: 50px;
+    }
+    .serv .testim .quote-icon .fa-quote-left {
+        left: 50px;
+    }
+    
+    /* Contact */
+    
+    .contact .infos {
+        width: 90%;
+        padding: 20px 23px;
+        margin: auto;
+        margin-top: 30px;
+    }
+    .contact .form .form-group textarea, .contact .form .form-group input {
+        width: 100%;
+        padding: 8px 4px;
+    }
+    .contact .form .message .send-btn {
+        margin-left: 0;
+    }
+    
+    .option-box {
+        top: 100px;
+    }
+    .contact .bg-contact {
+        display: none;
+    }
+    .contact .infos-contact.open-info-cont {
+        position: relative;
+        right: -10px;
+    }
+    
+    /* for Demo */
+    
+    .header-demo .title-demo h1 {
+        padding-top: 40%;
+    }
+    
+    .youtube #bg-video {
+        top: -60px;
+        left: 0px;
+        z-index: -999;
+        width: 244vw;
+        height: 122vh;
+    }
+    
+}
+
+/* Small Screen */
+@media(min-width: 767px) and (max-width: 991px) {
+    
+    
+}
+
+/* Medium Screen */
+@media(min-width: 992px) and (max-width: 1199px) {
+    
+    
+
+}
+
+/* Larg Screen */
+@media(min-width: 1200px) {
+    
+}
+/* ------------------------- End Media Query ---------------------------------------- */	

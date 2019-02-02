@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA;;;;;;;;;;;;;;6BAc8B;EAC1B,KAAK,EAAE,OAAO;;AAMN,8CAAQ;EACJ,KAAK,EAAE,KAAK;EACZ,gBAAgB,EAAE,OAAO;;AAMzC;;;;;;;;;;;;;;;4BAe6B;EACzB,gBAAgB,EAAE,OAAO;;AAG7B;;oBAEqB;EACjB,MAAM,EAAE,iBAAiB;;AAG7B;kDACmD;EAC/C,MAAM,EAAE,iBAAiB;;AAG7B;gCACiC;EAC7B,aAAa,EAAE,iBAAiB;;AAGpC,mCAAoC;EAClC,UAAU,EAAE,iBAAiB;;AAI/B;oBACqB;EACjB,MAAM,EAAE,kBAAkB",
+"sources": ["../../sass/colors/blue-color.scss"],
+"names": [],
+"file": "blue-color.css"
+}
