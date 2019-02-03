@@ -984,7 +984,7 @@ section.close-menu {
   color: #444; }
 
 .home2 .home2-img {
-  background-image: url('../images/profile.png');
+  background-image: url(/Users/shayleneliao/Desktop/profile.png);
   /* Here You can edit image Home 2  */
   height: 480px;
   width: 440px;
@@ -1132,7 +1132,7 @@ section.close-menu {
 
 ===========================================================*/
 .about .about-cont .about-img {
-  background-image: url(http://via.placeholder.com/3000x1500);
+  background-image: url(https://imgur.com/a/95jEMhL);
   /* Here You can edit your personal image */
   height: 450px;
   width: 90%;
