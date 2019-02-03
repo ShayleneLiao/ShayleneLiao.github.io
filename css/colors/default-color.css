@@ -13,11 +13,11 @@ footer p a:hover,
 .about .tabs-about .nav-link.active,
 .contact .form .thanks span,
 .navbar .social-media a:hover {
-  color: #ffc847; }
+  color: #d88b7c; }
 
 .navbar .nav-item.active-nav.show-line a:after {
   right: -50px;
-  background-color: #ffc847; }
+  background-color: #d88b7c; }
 
 .serv .testim .testim-infos .slick-arrow,
 .serv .testim .title-testim p:before,
@@ -35,26 +35,26 @@ footer p a:hover,
 .navbar-toggler .menu .line1,
 .navbar-toggler .menu .line2,
 .navbar-toggler .menu .line3 {
-  background-color: #ffc847; }
+  background-color: #d88b7c; }
 
 .testim .tabbable .tab-content .profile-details,
 .work .shuffle ul li.active,
 .work .shuffle ul li {
-  border: 1px solid #ffc847; }
+  border: 1px solid #d88b7c; }
 
 .testim .tabbable .tab-content .profile-image .image-tab,
 .testim .tabbable .list-tabs ul .active .image-tab {
-  border: 2px solid #ffc847; }
+  border: 2px solid #d88b7c; }
 
 .contact .form .form-group textarea,
 .contact .form .form-group input {
-  border-bottom: 2px solid #ffc847; }
+  border-bottom: 2px solid #d88b7c; }
 
 .about .tabs-about .nav-link.active {
-  border-top: 2px solid #ffc847; }
+  border-top: 2px solid #d88b7c; }
 
 .navbar .logo .bg_logo,
 .serv .info-serv img {
-  filter: hue-rotate(0deg); }
+  filter: hue-rotate(320deg); }
 
-/*# sourceMappingURL=default-color.css.map */
+/*# sourceMappingURL=pink-color.css.map */

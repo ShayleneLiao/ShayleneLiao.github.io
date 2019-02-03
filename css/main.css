@@ -865,7 +865,7 @@ section.close-menu {
   /* Zoom out Keyframes */
   /* End of Zoom out Keyframes */ }
   .home .zoominheader {
-    background-image: url(http://via.placeholder.com/4000x3500);
+    background-image: url(/Users/shayleneliao/Desktop/profile.png);
     /* Here You can edit image Home 1  */
     width: 100%;
     height: 100vh;
@@ -984,7 +984,7 @@ section.close-menu {
   color: #444; }
 
 .home2 .home2-img {
-  background-image: url(http://via.placeholder.com/4000x3500);
+  background-image: url('../images/profile.png');
   /* Here You can edit image Home 2  */
   height: 480px;
   width: 440px;
